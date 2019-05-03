@@ -28,7 +28,7 @@
       "breadcrumb_path": "/ops-test-sacor/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None",
-      "test": "test
+      "test": "test"
     },
     "markdownEngineName": "markdig",
     "overwrite": [],
