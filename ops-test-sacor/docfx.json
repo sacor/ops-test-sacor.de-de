@@ -10,7 +10,8 @@
           "README.md",
           "LICENSE",
           "LICENSE-CODE",
-          "ThirdPartyNotices"
+          "ThirdPartyNotices",
+          "testing"
         ],
         "files": [
           "**/*.md",
@@ -39,9 +40,11 @@
         "files": [
           "**/*.png",
           "**/*.jpg"
-        ]
+        ],
+        "test": "test"
       }
     ],
-    "template": []
+    "template": [],
+    "test": "test"
   }
 }
