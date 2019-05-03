@@ -22,6 +22,7 @@
     "externalReference": [],
     "fileMetadata": {},
     "globalMetadata": {
+      "bilingual_type": "hover over",
       "breadcrumb_path": "/ops-test-sacor/breadcrumb/toc.json",
       "extendBreadcrumb": true,
       "feedback_system": "None"
