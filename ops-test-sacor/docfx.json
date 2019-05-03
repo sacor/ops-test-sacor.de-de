@@ -21,11 +21,14 @@
     ],
     "dest": "ops-test-sacor",
     "externalReference": [],
-    "fileMetadata": {},
+    "fileMetadata": {
+      "test": "test"
+    },
     "globalMetadata": {
       "breadcrumb_path": "/ops-test-sacor/breadcrumb/toc.json",
       "extendBreadcrumb": true,
-      "feedback_system": "None"
+      "feedback_system": "None",
+      "test": "test
     },
     "markdownEngineName": "markdig",
     "overwrite": [],
