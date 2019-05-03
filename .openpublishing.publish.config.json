@@ -8,7 +8,7 @@
   "branches_to_filter": [
     "master-sxs",
     "master",
-    "live-sxs"
+    "live"
   ],
   "continue_with_document_error": true,
   "contribution_branch_mappings": {
